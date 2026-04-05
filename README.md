@@ -1,4 +1,4 @@
-# Interactive Love Proposal 💖
+# Heartfelt App 💖
 
 A charming, interactive web application designed for a "Love Proposal" or "Valentine's Day" surprise. It features a playful UI where the "No" button becomes increasingly difficult to click, eventually moving randomly to ensure the user (hopefully) clicks "Yes"!
 
